@@ -16,4 +16,4 @@ kubectl get pods
 
 # Step 4:
 # Forward the container port to a host
-kubectl port-forward pod/test-9d46d7796-gq2q2 --address 0.0.0.0 8000:80
+kubectl port-forward pod/test-9d46d7796-jfl4c --address 0.0.0.0 8000:80
